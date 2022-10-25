@@ -63,3 +63,91 @@
 .icon i{
 	margin-left: 3%;
 }
+.sec3{
+	background-color: #00BAF2;
+	font-size: 30px;
+	color: white;
+	font-style: poppins;
+	padding: 3% 8%;
+}
+.child1{
+	display: flex;
+	justify-content: space-between;	
+	padding: 2%;
+
+}
+.child1 a{
+	text-decoration: none;
+	color: white;
+	font-size: 18px;
+	font-style: poppins;	
+}
+.sec4{
+	background-color: #0f4a8a;
+	font-size: 30px;
+	color: white;
+	font-style: poppins;
+	padding: 3% 8%;
+
+}
+.child2{
+	display: flex;
+	justify-content: space-between;	
+	padding: 2%;
+
+}
+.child2 a{
+	text-decoration: none;
+	color: white;
+	font-size: 18px;
+	font-style: poppins;
+		
+}
+.sec5{
+	background-color: rgba(239, 239, 239, 0.6);
+	font-size: 30px;
+	margin-left: 5px;	
+	padding: 10%;
+}
+.div1{
+	background-color: white;
+}
+.sec5div1{
+	display: flex;
+	justify-content: space-between;
+	padding: 8%;
+	background-color: white;
+}
+.child3{
+	display: flex;
+	font-size: 19px;
+}
+.online{
+	font-size: 55px;
+	margin-top: 6%;
+	font-family: 'Poppins', sans-serif;
+	margin-left: 4%;
+}
+.load{
+	font-size: 20px;
+	font-style: normal;
+	margin-bottom: 7%;
+	margin-left: 4%;
+}
+.Download1{
+	border-radius: 25px;
+	background-color: black;
+	padding: 1.8%;
+	margin-left: 5%;
+	text-align: center;
+	text-decoration: none;
+	color: white;
+	border: 1px solid black;
+}
+.Download1:hover{
+	background-color: white;
+	color: black;
+}
+.icon1 i{
+	margin-left: 3%;
+}
