@@ -54,6 +54,7 @@
 	text-decoration: none;
 	border: 1px solid black;
 	margin-top: 6%;
+	font-size: 10px;
 	
 }
 .Download:hover{
@@ -109,9 +110,8 @@
 	margin-left: 5px;	
 	padding: 10%;
 }
-.div1{
-	background-color: white;
-}
+
+
 .sec5div1{
 	display: flex;
 	justify-content: space-between;
@@ -134,20 +134,95 @@
 	margin-bottom: 7%;
 	margin-left: 4%;
 }
-.Download1{
-	border-radius: 25px;
-	background-color: black;
-	padding: 1.8%;
-	margin-left: 5%;
-	text-align: center;
-	text-decoration: none;
-	color: white;
-	border: 1px solid black;
-}
-.Download1:hover{
+.sec5div2{
+	display: flex;
+	justify-content: space-between;
+	padding: 8%;
 	background-color: white;
-	color: black;
+	margin-top: 5%;
 }
-.icon1 i{
-	margin-left: 3%;
+.child3{
+	display: flex;
+	font-size: 19px;
+}
+.anyone{
+	font-size: 45px;
+	margin-top: 6%;
+	font-family: 'Poppins', sans-serif;
+	margin-left: 4%;
+}
+.make{
+	font-size: 15px;
+	font-style: normal;
+	margin-bottom: 7%;
+	margin-left: 4%;
+}
+.sec5div3{
+	display: flex;
+	justify-content: space-between;
+	padding: 8%;
+	background-color: white;
+	margin-top: 5%;
+}
+.child3{
+	display: flex;
+	font-size: 19px;
+}
+.want{
+	font-size: 45px;
+	margin-top: 6%;
+	font-family: 'Poppins', sans-serif;
+	margin-left: 4%;
+}
+.with{
+	font-size: 15px;
+	font-style: normal;
+	margin-bottom: 7%;
+	margin-left: 4%;
+}
+.Learn{
+	background-color: blue;
+	border-radius: 25px;
+	font-size: 25px;
+	color: white;
+	padding: 2.6%;
+	text-decoration: none;
+	
+}
+.Learn:hover{
+	background-color: skyblue;
+}
+.sec5div4{
+	display: flex;
+	justify-content: space-evenly;	
+	padding: 8%;
+	background-color: white;
+	margin-top: 5%;
+}
+	
+
+.child3{
+	margin: 4% 4% 0% 0%;
+	padding: 10%;
+	border-radius: 7px;
+	
+}
+.child4{
+	margin: 4% 4% 0% 0%;
+	padding: 10%;
+	border-radius: 7px;
+}
+.cash{
+	padding: 3% 0%;
+	font-size: 37px;
+	font-family: "poppins";
+}
+.most{
+	padding: 3% 0%;
+	font-size: 37px;
+	font-family: "poppins";
+}
+.hdfc{
+	font-size: 19px;
+	padding-bottom: 12%;
 }
