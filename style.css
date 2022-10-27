@@ -194,35 +194,78 @@
 }
 .sec5div4{
 	display: flex;
-	justify-content: space-evenly;	
-	padding: 8%;
-	background-color: white;
-	margin-top: 5%;
+	justify-content: space-evenly;
+	font-family: "Poppins";
+	
 }
-	
-
 .child3{
+	background-color: white;
 	margin: 4% 4% 0% 0%;
-	padding: 10%;
+	padding: 6% 4% 0% 6%;
 	border-radius: 7px;
-	
 }
 .child4{
+	background-color: white;
 	margin: 4% 4% 0% 0%;
-	padding: 10%;
+	padding: 6% 4% 0% 6%;
 	border-radius: 7px;
-}
-.cash{
+}	font-size: 37px;
 	padding: 3% 0%;
+	font-family: "Poppins"
+	
+}	
+.unlimited{
 	font-size: 37px;
-	font-family: "poppins";
+	padding: 3% 0%;
+	font-family: "Poppins"	
 }
 .most{
-	padding: 3% 0%;
 	font-size: 37px;
-	font-family: "poppins";
+	padding: 3% 0%;
+	font-family: "Poppins"	
 }
-.hdfc{
+.div4para{
 	font-size: 19px;
 	padding-bottom: 12%;
+}
+.sec6{	
+	display: flex;
+	justify-content: space-between;
+	margin: 9% 0% 10% 10%;
+}
+.services{
+	font-size: 55px;
+	font-style: "Poppins";
+	margin-top: 6%;
+}
+
+.India{	
+	font-size: 55px;
+	margin-top: 0%;
+	font-family: 'Poppins', sans-serif;
+}
+.paytm{
+	font-size: 20px;
+	margin-bottom: 7%;
+	font-family: 'Poppins', sans-serif;
+}
+.Learn{
+	background-color: blue;
+	border-radius: 25px;
+	font-size: 20px;
+	color: white;
+	padding: 1.8%;
+	text-decoration: none;
+	margin-top: 6%;
+	
+}
+.Learn:hover{
+	background-color: skyblue;
+}		
+	
+
+@media (max-width: 1366px){
+	.navigation a{
+		font-size: 14px;
+	}
 }
