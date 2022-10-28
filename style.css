@@ -148,12 +148,12 @@
 .anyone{
 	font-size: 45px;
 	margin-top: 6%;
-	font-family: 'Poppins', sans-serif;
+	font-family: "Poppins", sans-serif;
 	margin-left: 4%;
 }
 .make{
-	font-size: 15px;
-	font-style: normal;
+	font-size: 20px;
+	font-style: "Poppins";
 	margin-bottom: 7%;
 	margin-left: 4%;
 }
@@ -181,7 +181,7 @@
 	margin-left: 4%;
 }
 .Learn{
-	background-color: blue;
+	background-color:  #0f4a8a;
 	border-radius: 25px;
 	font-size: 25px;
 	color: white;
@@ -196,23 +196,20 @@
 	display: flex;
 	justify-content: space-evenly;
 	font-family: "Poppins";
+	margin-top: 5%;
 	
 }
 .child3{
 	background-color: white;
-	margin: 4% 4% 0% 0%;
-	padding: 6% 4% 0% 6%;
-	border-radius: 7px;
+	margin-right: 3%;
+	font-size: 19px;
+	padding: 2%;
 }
-.child4{
-	background-color: white;
-	margin: 4% 4% 0% 0%;
-	padding: 6% 4% 0% 6%;
-	border-radius: 7px;
-}	font-size: 37px;
-	padding: 3% 0%;
-	font-family: "Poppins"
-	
+.child3 a{
+	color: black;
+	text-decoration: none;
+	font-size: 18px;
+	font-style: "Poppins";
 }	
 .unlimited{
 	font-size: 37px;
@@ -231,14 +228,71 @@
 .sec6{	
 	display: flex;
 	justify-content: space-between;
-	margin: 9% 0% 10% 10%;
+	margin: 9% 5% 10% 10%;.
 }
 .services{
 	font-size: 55px;
 	font-style: "Poppins";
-	margin-top: 6%;
+	padding: 4% 0%;
 }
 
+.India{	
+	font-size: 55px;
+	margin-right: 4%;
+	margin: 3% 0% 3% 3%;
+	font-family: 'Poppins', sans-serif;
+}
+.paytm{
+	font-size: 20px;
+	margin-bottom: 7%;
+	margin: 3% 0% 3% 3%;
+	font-family: 'Poppins', sans-serif;
+}
+.Learn{
+	background-color:  #0f4a8a;
+	border-radius: 25px;
+	font-size: 20px;
+	color: white;
+	padding: 1.8%;
+	text-decoration: none;
+	margin-top: 6%;
+	
+}
+.Learn:hover{
+	background-color: skyblue;
+}
+.sec7{	
+	display: flex;
+	justify-content: space-between;
+	margin: 12% 12% 10% 10%;.
+}
+.India{	
+	font-size: 55px;
+	margin-top: 4%;
+	font-family: 'Poppins', sans-serif;
+}
+.paytm{
+	font-size: 20px;
+	margin-bottom: 2%;
+	font-family: 'Poppins', sans-serif;
+}
+.Learn{
+	background-color:  #0f4a8a;
+	border-radius: 25px;
+	font-size: 20px;
+	color: white;
+	padding: 1.8%;
+	text-decoration: none;
+	margin-top: 6%;	
+}
+.Learn:hover{
+	background-color: skyblue;
+}
+.sec8{	
+	display: flex;
+	justify-content: space-between;
+	margin: 9% 9% 10% 10%;.
+}
 .India{	
 	font-size: 55px;
 	margin-top: 0%;
@@ -250,7 +304,7 @@
 	font-family: 'Poppins', sans-serif;
 }
 .Learn{
-	background-color: blue;
+	background-color:  #0f4a8a;
 	border-radius: 25px;
 	font-size: 20px;
 	color: white;
@@ -261,11 +315,255 @@
 }
 .Learn:hover{
 	background-color: skyblue;
-}		
+}
+.sec9{
+	background-color: white;
+	font-size: 30px;
+	margin-left: 5px;	
+	padding: 10%;
+}
+.sec9div1{
+	display: flex;
+	justify-content: space-between;
+	padding: 10%;
+	background-color: rgba(239, 239, 239, 0.6);
+	font-size: 50px;
+}
+.India{	
+	font-size: 55px;
+	margin-top: 0%;
+	font-family: 'Poppins', sans-serif;
+}
+.paytm{
+	font-size: 20px;
+	margin-bottom: 7%;
+	font-family: 'Poppins', sans-serif;
+}
+.Learn{
+	background-color:  #0f4a8a;
+	border-radius: 25px;
+	font-size: 20px;
+	color: white;
+	padding: 1.8%;
+	text-decoration: none;
+	margin-top: 6%;
+	
+}
+.Learn:hover{
+	background-color: skyblue;
+}
+.sec10{
+	background-color: white;
+	font-size: 30px;
+	margin-left: 5px;	
+	padding: 10%;
+}
+.sec10div1{
+	display: flex;
+	justify-content: space-between;
+	padding: 8%;
+	background-color: rgba(239, 239, 239, 0.6);
+	font-size: 50px;
+}
+.India{	
+	font-size: 55px;
+	margin-top: 0%;
+	font-family: 'Poppins', sans-serif;
+}
+.paytm{
+	font-size: 20px;
+	margin-bottom: 7%;
+	font-family: 'Poppins', sans-serif;
+}
+.Learn{
+	background-color:  #0f4a8a;
+	border-radius: 25px;
+	font-size: 20px;
+	color: white;
+	padding: 1.8%;
+	text-decoration: none;
+	margin-top: 6%;
+	
+}
+.Learn:hover{
+	background-color: skyblue;
+}
+.sec11{
+	background-color: white;
+	font-size: 30px;
+	margin-left: 5px;	
+	padding: 10%;
+}
+.sec11div1{
+	display: flex;
+	justify-content: space-between;
+	padding: 8%;
+	background-color: rgba(239, 239, 239, 0.6);
+	font-size: 50px;
+}
+.India{	
+	font-size: 55px;
+	margin-top: 0%;
+	font-family: 'Poppins', sans-serif;
+}
+.paytm{
+	font-size: 20px;
+	margin-bottom: 7%;
+	font-family: 'Poppins', sans-serif;
+}
+.Learn{
+	background-color: #0f4a8a;
+	border-radius: 25px;
+	font-size: 20px;
+	color: white;
+	padding: 1.8%;
+	text-decoration: none;
+	margin-top: 6%;
+	
+}
+.Learn:hover{
+	background-color: skyblue;
+}
+.sec12{
+	background-color: white;
+	font-size: 30px;
+	margin-left: 5%;	
+	padding: 14%;
+	margin-top: 5%;
+}
+.sec12div{
+	display: flex;
+	justify-content: space-between;
+	padding-top: 7%;
+	margin: 5% 5% 2% 2% ;
+
+}
+.India{	
+	font-size: 35px;
+	margin-top: 0%;
+	font-family: 'Poppins', sans-serif;
+}
+.paytm{
+	font-size: 20px;
+	margin-bottom: 7%;
+	font-family: 'Poppins', sans-serif;
+}
+
+		
+
+
+
+		
+
+
 	
 
-@media (max-width: 1366px){
+	
+@media (max-width: 390px){
 	.navigation a{
-		font-size: 14px;
+		font-size: 4px;
 	}
-}
+	.msg{
+		font-size: 7px;
+	}
+	.India{
+		font-size: 9px;
+	}
+	.recharge{
+		font-size: 9px;
+	}
+	.sec3{
+		font-size: 9px;
+		
+	}
+	.child1 a{
+		font-size: 4px;
+		flex-direction: column;
+		align-items: center;
+		
+	}
+	.sec4{
+		font-size: 9px;
+		
+	}
+	.child2 a{
+		font-size: 4px;
+		flex-direction: column;
+		align-items: center;
+	}
+	.sec5{
+		font-size: 9px;
+	}
+	.child3{
+		font-size: 4px;
+	}
+	.online{
+		font-size: 9px;		
+	}
+	.load{
+		font-size: 9px ;
+	}
+	.sec5div2{
+		font-size: 9px;
+	}
+	.child3{
+		font-size: 4px;
+	}
+	.anyone{
+		font-size: 9px;
+	}
+	.make{
+		font-size: 9px;
+	}
+	.sec5div3{
+		font-size: 9px;
+	}
+	.child3{
+		font-size: 4px;
+	}
+	.want{
+		font-size: 9px;
+	}
+	.with{
+		font-size: 9px;
+	}
+	.sec5div4{
+		font-size: 9px;
+	}
+	.unlimited{
+		font-size: 9px;	
+	}
+	.div4para{
+		font-size: 9px;
+	}
+	.most{
+		font-size: 9px;
+	}
+	.child3{
+		font-size: 9px;
+	}
+	.sec6{
+		font-size: 9px;
+	}
+	.India{
+		font-size: 9px;	
+	}
+	.services{
+		font-size: 5px;
+	}
+	.paytm{
+		font-size: 5px;
+	}
+	.Learn{
+		font-size: 5px;
+	}
+	.sec10{
+		font-size: 9px;
+	}
+	.Download{
+		font-size: 5px;
+	}
+	.sec12{
+		font-size: 9px;
+	}
+
